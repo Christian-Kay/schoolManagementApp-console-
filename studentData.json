@@ -1,0 +1,51 @@
+[
+    {
+        "id": "U2023/662001",
+        "fullName": "kukuru ebitibituawei emmanuel",
+        "phoneNumber": "09015816285",
+        "homeAddress": "choba",
+        "emailAddress": "kukuruchristian@gmail.com",
+        "dateOfBirth": "25-12-1999",
+        "gender": "Male",
+        "department": "Mathematics",
+        "username": "kuku.student100",
+        "password": "1234",
+        "status": "Paid",
+        "courses": [
+            "MTH 110.1",
+            "MTH 120.1",
+            "MTH 130.1",
+            "GES 100.1",
+            "PHY 102.1"
+        ],
+        "paymentHistory": [
+            {
+                "Type": "School Fee Payment",
+                "Amount": "-#50000",
+                "Date": "21/07/2023 at 2:33:26 AM"
+            }
+        ],
+        "acc": 0
+    },
+    {
+        "id": "U2023/552002",
+        "fullName": "aron belem",
+        "phoneNumber": "09068211572",
+        "homeAddress": "rumuola",
+        "emailAddress": "belem@gmail.com",
+        "dateOfBirth": "10-10-2000",
+        "gender": "Female",
+        "department": "Physics",
+        "username": "aron.student164",
+        "password": "1212",
+        "status": "not paid",
+        "courses": [],
+        "paymentHistory": [],
+        "acc": 0
+    },
+    10000,
+    50000,
+    0,
+    "Paid",
+    1
+]

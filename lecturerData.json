@@ -1,0 +1,38 @@
+[
+    {
+        "id":"U2023/LEC/6601",
+        "fullName": "vincent williams",
+        "phoneNumber": "08137962688",
+        "homeAddress": "harvoxx",
+        "emailAddress": "vincentwilliams@gmail.com",
+        "dateOfBirth": "12-01-1992",
+        "gender": "Male",
+        "department": "Mathematics",
+        "username": "vinc.lecturer128",
+        "password": "4321",
+        "status": "not paid",
+        "courses": [
+            "MTH 110.1"
+        ],
+        "paymentHistory":[],
+        "acc":0
+    },
+    1,
+    {
+        "id":"U2023/LEC/6602",
+        "fullName": "sonny uche",
+        "phoneNumber": "09087653456",
+        "homeAddress": "uniport",
+        "emailAddress": "sonny@gmail.com",
+        "dateOfBirth": "23-08-1992",
+        "gender": "Male",
+        "department": "Mathematics",
+        "username": "sonn.lecturer106",
+        "password": "54321",
+        "status": "not paid",
+        "courses": [],
+        "paymentHistory":[],
+        "acc":0
+    }
+    
+]
